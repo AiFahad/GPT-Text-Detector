@@ -1,0 +1,6 @@
+gradio 
+transformers
+onnx 
+onnxruntime
+sentencepiece 
+sentence-splitter
